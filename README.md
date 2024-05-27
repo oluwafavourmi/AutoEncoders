@@ -7,3 +7,4 @@ link to the project: https://github.com/oluwafavourmi/AutoEncoders/tree/main/Aut
 
 2. Convolutional AutoEncoders:
 This Architecture uses Convolutional Layers and it is mainly used in Image analysis, since convolutional layers perform better than Dense layers. The architecture has an encoder-decoder structure and images are embedded into a latent space representation.
+link to the project: https://github.com/oluwafavourmi/AutoEncoders/tree/main/Convolutional%20AutoEncoder
